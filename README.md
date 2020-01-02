@@ -32,7 +32,7 @@ sudo g++ -std=c++14 *.cpp -Wall -Wextra -Wshadow -Wnon-virtual-dtor -pedantic -o
 ```
 After compilation, type:
 ```bash
-./a.out
+./a.out 'fileName'
 ```
 2. After the program is running, open the simulator and click **Fly!**
 
